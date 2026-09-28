@@ -24,4 +24,4 @@ teknoloji_blogu/
 ├── style.css           # Tasarım ve Flexbox stilleri
 └── README.md           # Proje dokümantasyonu
 
-Projeye canlı ortamda erişmek için:berat67.lovestoblog.com
+Projeye canlı ortamda erişmek için:beroskaa672.lovestoblog.com
